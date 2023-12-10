@@ -1,0 +1,5755 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>TBA Parcour 2023.kml</name>
+	<Style id="mm_folder_color_3">
+		<IconStyle>
+			<color>ffb0279c</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb0279c</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_folder_color_4">
+		<IconStyle>
+			<color>ff0000ff</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_folder_color_5">
+		<IconStyle>
+			<color>ff485579</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ff485579</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff485579</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="mm_marker_color_122">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mm_marker_color_12245</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mm_marker_color_1226</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="mm_marker_color_1220">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.5</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb0279c</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_1221">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.5</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb0279c</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="mm_marker_color_12210">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mm_marker_color_12283</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mm_marker_color_12288</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="mm_marker_color_122100">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.5</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb0279c</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="mm_marker_color_12211">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mm_marker_color_12230</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mm_marker_color_12275</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="mm_marker_color_12212">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mm_marker_color_12266</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mm_marker_color_12277</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="mm_marker_color_12213">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.5</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb0279c</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="mm_marker_color_12214">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mm_marker_color_12240</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mm_marker_color_12264</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="mm_marker_color_12215">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.5</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb0279c</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_12216">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.5</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb0279c</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_12217">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.5</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb0279c</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_12218">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.5</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb0279c</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_12219">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.5</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb0279c</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_1222">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.5</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb0279c</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_12220">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.5</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb0279c</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_12221">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.5</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb0279c</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="mm_marker_color_12222">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mm_marker_color_12296</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mm_marker_color_12271</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="mm_marker_color_12223">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mm_marker_color_12215</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mm_marker_color_12221</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="mm_marker_color_12224">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mm_marker_color_12255</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mm_marker_color_12253</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="mm_marker_color_12225">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mm_marker_color_12289</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mm_marker_color_12274</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="mm_marker_color_12226">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.5</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb0279c</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_12227">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.5</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb0279c</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="mm_marker_color_12228">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mm_marker_color_1229</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mm_marker_color_12220</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="mm_marker_color_12229">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.5</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb0279c</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_1223">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.5</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb0279c</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_12230">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.5</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb0279c</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_12231">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.5</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb0279c</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_12232">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.5</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb0279c</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_12233">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.5</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb0279c</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="mm_marker_color_12234">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mm_marker_color_12217</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mm_marker_color_1228</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="mm_marker_color_12235">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mm_marker_color_12239</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mm_marker_color_12231</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="mm_marker_color_12236">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.5</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb0279c</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="mm_marker_color_12237">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mm_marker_color_12281</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mm_marker_color_1222</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="mm_marker_color_12238">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mm_marker_color_1221</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mm_marker_color_12216</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="mm_marker_color_12239">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.5</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb0279c</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="mm_marker_color_1224">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mm_marker_color_12219</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mm_marker_color_12218</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="mm_marker_color_12240">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.5</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb0279c</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_12241">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.5</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb0279c</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="mm_marker_color_12242">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mm_marker_color_12241</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mm_marker_color_12236</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="mm_marker_color_12243">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.5</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb0279c</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="mm_marker_color_12244">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mm_marker_color_12282</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mm_marker_color_12292</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="mm_marker_color_12245">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.5</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb0279c</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_12246">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.5</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb0279c</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_12247">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.5</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb0279c</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_12248">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.5</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb0279c</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="mm_marker_color_12249">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mm_marker_color_12262</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mm_marker_color_12291</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="mm_marker_color_1225">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.5</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb0279c</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_12250">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.5</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb0279c</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="mm_marker_color_12251">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mm_marker_color_1225</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mm_marker_color_12285</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="mm_marker_color_12252">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.5</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb0279c</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_12253">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.5</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb0279c</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="mm_marker_color_12254">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mm_marker_color_12229</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mm_marker_color_12233</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="mm_marker_color_12255">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.5</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb0279c</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="mm_marker_color_12256">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mm_marker_color_122100</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mm_marker_color_12299</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="mm_marker_color_12257">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.5</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb0279c</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="mm_marker_color_12258">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mm_marker_color_12246</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mm_marker_color_12243</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="mm_marker_color_12259">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mm_marker_color_12250</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mm_marker_color_1220</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="mm_marker_color_1226">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.5</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb0279c</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_12260">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.5</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb0279c</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="mm_marker_color_12261">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mm_marker_color_12248</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mm_marker_color_1223</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="mm_marker_color_12262">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.5</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb0279c</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="mm_marker_color_12263">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mm_marker_color_12227</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mm_marker_color_12284</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="mm_marker_color_12264">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.5</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb0279c</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_12265">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.5</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb0279c</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_12266">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.5</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb0279c</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="mm_marker_color_12267">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mm_marker_color_12280</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mm_marker_color_12279</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="mm_marker_color_12268">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.5</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb0279c</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="mm_marker_color_12269">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mm_marker_color_12232</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mm_marker_color_12247</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="mm_marker_color_1227">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.5</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb0279c</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="mm_marker_color_12270">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mm_marker_color_12268</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mm_marker_color_12265</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="mm_marker_color_12271">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.5</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb0279c</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_12272">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.5</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb0279c</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_12273">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.5</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb0279c</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_12274">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.5</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb0279c</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_12275">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.5</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb0279c</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_12276">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.5</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb0279c</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_12277">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.5</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb0279c</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="mm_marker_color_12278">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mm_marker_color_12290</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mm_marker_color_12276</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="mm_marker_color_12279">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.5</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb0279c</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_1228">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.5</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb0279c</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_12280">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.5</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb0279c</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_12281">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.5</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb0279c</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_12282">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.5</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb0279c</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_12283">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.5</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb0279c</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_12284">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.5</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb0279c</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_12285">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.5</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb0279c</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="mm_marker_color_12286">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mm_marker_color_1227</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mm_marker_color_12213</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="mm_marker_color_12287">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mm_marker_color_12257</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mm_marker_color_12260</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="mm_marker_color_12288">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.5</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb0279c</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_12289">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.5</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb0279c</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_1229">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.5</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb0279c</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_12290">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.5</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb0279c</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_12291">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.5</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb0279c</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_12292">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.5</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb0279c</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="mm_marker_color_12293">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mm_marker_color_12295</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mm_marker_color_12226</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="mm_marker_color_12294">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mm_marker_color_12272</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mm_marker_color_12273</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="mm_marker_color_12295">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.5</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb0279c</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_12296">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.5</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb0279c</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="mm_marker_color_12297">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mm_marker_color_12252</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mm_marker_color_12298</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="mm_marker_color_12298">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.5</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb0279c</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_12299">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.5</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb0279c</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_192">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/campground.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00ff00</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff485579</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff485579</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_1920">
+		<IconStyle>
+			<color>ff00ff00</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/polygon.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00ff00</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff485579</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff485579</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="mm_marker_color_1921">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mm_marker_color_1920</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mm_marker_color_19210</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="mm_marker_color_19210">
+		<IconStyle>
+			<color>ff00ff00</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/polygon.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00ff00</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff485579</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff485579</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_19211">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/campground.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00ff00</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff485579</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff485579</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_19212">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/campground.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00ff00</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff485579</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff485579</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_19213">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/campground.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00ff00</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff485579</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff485579</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="mm_marker_color_1922">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mm_marker_color_19213</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mm_marker_color_19212</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="mm_marker_color_1923">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mm_marker_color_1927</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mm_marker_color_1926</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="mm_marker_color_1924">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00ff00</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff485579</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff485579</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_1925">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00ff00</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff485579</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff485579</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_1926">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00ff00</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff485579</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff485579</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_1927">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00ff00</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff485579</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff485579</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="mm_marker_color_1928">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mm_marker_color_19211</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mm_marker_color_192</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="mm_marker_color_1929">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mm_marker_color_1925</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mm_marker_color_1924</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_parking_lot0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_parking_lot0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_parking_lot0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_parking_lot">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_parking_lot</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_parking_lot</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_placemark_circle25">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight22</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_placemark_circle26">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle12</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight16</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_placemark_circle24">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle31</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_placemark_circle9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle23</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight21</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_placemark_circle21">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle19</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight30</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_placemark_circle23">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_placemark_circle20">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle13</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight19</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_placemark_circle8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_placemark_circle27">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle30</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_placemark_circle28">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_placemark_circle10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_placemark_circle7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle14</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight15</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_placemark_circle29">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle15</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight20</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_placemark_circle19">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle25</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight26</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_placemark_circle17">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle26</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight28</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_placemark_circle16">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight13</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_placemark_circle15">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle24</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight24</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_placemark_circle11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle27</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight27</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_placemark_circle12">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_placemark_circle13">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_placemark_circle6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle17</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight29</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_placemark_circle14">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle16</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight14</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_placemark_circle30">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_placemark_circle2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight12</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_placemark_circle31">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_placemark_circle1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle21</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight31</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_placemark_circle0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle29</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_placemark_circle">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_placemark_circle22">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle11</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight17</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_placemark_circle5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_placemark_circle18">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle18</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight18</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_placemark_circle3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle28</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight25</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_placemark_circle4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle22</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight23</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_parking_lot">
+		<IconStyle>
+			<color>ffffaa00</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/parking_lot.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffffaa00</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff485579</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff485579</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_parking_lot0">
+		<IconStyle>
+			<color>ffffaa00</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/parking_lot.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffffaa00</color>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff485579</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff485579</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight25">
+		<IconStyle>
+			<color>ff0400ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight11">
+		<IconStyle>
+			<color>ff0400ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight12">
+		<IconStyle>
+			<color>ff0400ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight26">
+		<IconStyle>
+			<color>ff0400ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight13">
+		<IconStyle>
+			<color>ff0400ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight14">
+		<IconStyle>
+			<color>ff0400ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight15">
+		<IconStyle>
+			<color>ff0400ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight7">
+		<IconStyle>
+			<color>ff0400ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight16">
+		<IconStyle>
+			<color>ff0400ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight17">
+		<IconStyle>
+			<color>ff0400ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight18">
+		<IconStyle>
+			<color>ff0400ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight27">
+		<IconStyle>
+			<color>ff0400ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight">
+		<IconStyle>
+			<color>ff0400ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight0">
+		<IconStyle>
+			<color>ff0400ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight1">
+		<IconStyle>
+			<color>ff0400ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight2">
+		<IconStyle>
+			<color>ff0400ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight3">
+		<IconStyle>
+			<color>ff0400ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight28">
+		<IconStyle>
+			<color>ff0400ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight4">
+		<IconStyle>
+			<color>ff0400ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight29">
+		<IconStyle>
+			<color>ff0400ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight30">
+		<IconStyle>
+			<color>ff0400ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight5">
+		<IconStyle>
+			<color>ff0400ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight21">
+		<IconStyle>
+			<color>ff0400ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight31">
+		<IconStyle>
+			<color>ff0400ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight22">
+		<IconStyle>
+			<color>ff0400ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight6">
+		<IconStyle>
+			<color>ff0400ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight8">
+		<IconStyle>
+			<color>ff0400ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight9">
+		<IconStyle>
+			<color>ff0400ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight19">
+		<IconStyle>
+			<color>ff0400ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight20">
+		<IconStyle>
+			<color>ff0400ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight23">
+		<IconStyle>
+			<color>ff0400ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight10">
+		<IconStyle>
+			<color>ff0400ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight24">
+		<IconStyle>
+			<color>ff0400ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>9900ffff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_parking_lot">
+		<IconStyle>
+			<color>ffffaa00</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/parking_lot.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffffaa00</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff485579</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff485579</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_parking_lot0">
+		<IconStyle>
+			<color>ffffaa00</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/parking_lot.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffffaa00</color>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff485579</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff485579</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_placemark_circle23">
+		<IconStyle>
+			<color>ff0400ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_placemark_circle4">
+		<IconStyle>
+			<color>ff0400ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_placemark_circle24">
+		<IconStyle>
+			<color>ff0400ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_placemark_circle19">
+		<IconStyle>
+			<color>ff0400ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_placemark_circle25">
+		<IconStyle>
+			<color>ff0400ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_placemark_circle31">
+		<IconStyle>
+			<color>ff0400ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_placemark_circle11">
+		<IconStyle>
+			<color>ff0400ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_placemark_circle20">
+		<IconStyle>
+			<color>ff0400ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_placemark_circle3">
+		<IconStyle>
+			<color>ff0400ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_placemark_circle13">
+		<IconStyle>
+			<color>ff0400ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_placemark_circle21">
+		<IconStyle>
+			<color>ff0400ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_placemark_circle2">
+		<IconStyle>
+			<color>ff0400ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_placemark_circle26">
+		<IconStyle>
+			<color>ff0400ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_placemark_circle1">
+		<IconStyle>
+			<color>ff0400ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_placemark_circle27">
+		<IconStyle>
+			<color>ff0400ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_placemark_circle16">
+		<IconStyle>
+			<color>ff0400ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_placemark_circle0">
+		<IconStyle>
+			<color>ff0400ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_placemark_circle">
+		<IconStyle>
+			<color>ff0400ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_placemark_circle10">
+		<IconStyle>
+			<color>ff0400ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_placemark_circle9">
+		<IconStyle>
+			<color>ff0400ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_placemark_circle14">
+		<IconStyle>
+			<color>ff0400ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_placemark_circle8">
+		<IconStyle>
+			<color>ff0400ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_placemark_circle22">
+		<IconStyle>
+			<color>ff0400ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_placemark_circle28">
+		<IconStyle>
+			<color>ff0400ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_placemark_circle12">
+		<IconStyle>
+			<color>ff0400ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_placemark_circle15">
+		<IconStyle>
+			<color>ff0400ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_placemark_circle17">
+		<IconStyle>
+			<color>ff0400ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_placemark_circle29">
+		<IconStyle>
+			<color>ff0400ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_placemark_circle30">
+		<IconStyle>
+			<color>ff0400ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_placemark_circle7">
+		<IconStyle>
+			<color>ff0400ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_placemark_circle6">
+		<IconStyle>
+			<color>ff0400ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_placemark_circle5">
+		<IconStyle>
+			<color>ff0400ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_placemark_circle18">
+		<IconStyle>
+			<color>ff0400ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>9900ffff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>TBA Parcour 2023</name>
+		<open>1</open>
+		<Folder id="5">
+			<name>Andere</name>
+			<styleUrl>#mm_folder_color_5</styleUrl>
+			<Style id="mm_marker_color_40">
+				<IconStyle>
+					<color>ff485579</color>
+					<colorMode>normal</colorMode>
+					<scale>1</scale>
+				</IconStyle>
+				<LineStyle>
+					<color>ff485579</color>
+				</LineStyle>
+				<PolyStyle>
+					<color>ff485579</color>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+					<value>-1</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+					<value>[]</value>
+				</Data>
+			</ExtendedData>
+			<Placemark id="192">
+				<name>Eingang</name>
+				<description><![CDATA[<div>Einschreibbuch am Eingang</div>]]></description>
+				<TimeStamp><when>2023-04-16T11:07:52Z</when>
+</TimeStamp>
+				<styleUrl>#mm_marker_color_1921</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.4071327973951,48.36685477653239,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="17">
+				<name>Labe klein</name>
+				<description><![CDATA[<div>nicht überdacht</div>]]></description>
+				<TimeStamp><when>2023-01-15T10:16:54Z</when>
+</TimeStamp>
+				<styleUrl>#mm_marker_color_1922</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.40851819999986,48.36553639999993,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="40">
+				<name>Labe groß</name>
+				<description><![CDATA[<div>überdacht</div>]]></description>
+				<TimeStamp><when>2023-01-15T11:19:43Z</when>
+</TimeStamp>
+				<styleUrl>#mm_marker_color_1928</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.41117260204828,48.3657951056693,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Vereinshaus</name>
+				<description><![CDATA[<div>Anmeldung und Einschussplatz
+<a href="https://www.tba-treffling.at/">https://www.tba-treffling.at/</a>
+</div>]]></description>
+				<LookAt>
+					<gx:TimeSpan>
+						<begin>2023-01-15T10:16:54Z</begin>
+						<end>2023-05-06T12:42:10Z</end>
+					</gx:TimeSpan>
+					<longitude>14.40751932017868</longitude>
+					<latitude>48.36807904113441</latitude>
+					<altitude>0</altitude>
+					<heading>-0.631911291498103</heading>
+					<tilt>7.012118128114864</tilt>
+					<range>665.4579716727768</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#mm_marker_color_1923</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>14.40469556170689,48.36785233721817,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bogensport KUL</name>
+				<description><![CDATA[<div>
+<a href="https://www.bogensportkul.at/">https://www.bogensportkul.at/</a>
+</div>]]></description>
+				<LookAt>
+					<gx:TimeSpan>
+						<begin>2023-01-15T10:16:54Z</begin>
+						<end>2023-05-06T12:42:10Z</end>
+					</gx:TimeSpan>
+					<longitude>14.40752474561244</longitude>
+					<latitude>48.36807905978512</latitude>
+					<altitude>0</altitude>
+					<heading>1.838360605885912e-12</heading>
+					<tilt>3.340470079955915</tilt>
+					<range>665.4579716738571</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#mm_marker_color_1929</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>14.40388331016015,48.36769793734058,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parkplatz</name>
+				<LookAt>
+					<gx:TimeSpan>
+						<begin>2023-01-15T10:16:54Z</begin>
+						<end>2023-05-06T12:42:10Z</end>
+					</gx:TimeSpan>
+					<longitude>14.40731842978935</longitude>
+					<latitude>48.36764116575172</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0004463247646586149</heading>
+					<tilt>18.25676311210003</tilt>
+					<range>672.8061913402717</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_parking_lot</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>14.40580910916539,48.36787416222143,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parkplatz</name>
+				<LookAt>
+					<longitude>14.40527715864838</longitude>
+					<latitude>48.36730344197048</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>45</tilt>
+					<range>1000</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_parking_lot0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>14.40527715864838,48.36730344197048,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder id="3">
+			<name>Targets</name>
+			<styleUrl>#mm_folder_color_3</styleUrl>
+			<Style id="mm_marker_color_154">
+				<IconStyle>
+					<color>ffb0279c</color>
+					<colorMode>normal</colorMode>
+					<scale>1</scale>
+				</IconStyle>
+				<LineStyle>
+					<color>ffb0279c</color>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffb0279c</color>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+					<value>-1</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+					<value>[]</value>
+				</Data>
+			</ExtendedData>
+			<Placemark id="122">
+				<name>1</name>
+				<description><![CDATA[<div></div>]]></description>
+				<TimeStamp><when>2023-04-01T09:51:10Z</when>
+</TimeStamp>
+				<styleUrl>#mm_marker_color_12263</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.40684700693394,48.36657420000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="123">
+				<name>2</name>
+				<description><![CDATA[<div></div>]]></description>
+				<TimeStamp><when>2023-04-01T09:54:44Z</when>
+</TimeStamp>
+				<styleUrl>#mm_marker_color_12259</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.40725401890992,48.36642536735244,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="124">
+				<name>3</name>
+				<description><![CDATA[<div></div>]]></description>
+				<TimeStamp><when>2023-04-01T09:56:46Z</when>
+</TimeStamp>
+				<styleUrl>#mm_marker_color_12224</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.407012,48.3661873,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="125">
+				<name>4</name>
+				<description><![CDATA[<div></div>]]></description>
+				<TimeStamp><when>2023-04-01T09:59:59Z</when>
+</TimeStamp>
+				<styleUrl>#mm_marker_color_12287</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.40726075321436,48.36581361992705,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="126">
+				<name>5</name>
+				<description><![CDATA[<div></div>]]></description>
+				<TimeStamp><when>2023-04-01T10:02:20Z</when>
+</TimeStamp>
+				<styleUrl>#mm_marker_color_12294</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.40743149017268,48.36600008304555,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="127">
+				<name>6</name>
+				<description><![CDATA[<div></div>]]></description>
+				<TimeStamp><when>2023-04-01T10:04:59Z</when>
+</TimeStamp>
+				<styleUrl>#mm_marker_color_12293</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.40762391911461,48.36564868907454,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="128">
+				<name>7</name>
+				<description><![CDATA[<div></div>]]></description>
+				<TimeStamp><when>2023-04-01T10:06:17Z</when>
+</TimeStamp>
+				<styleUrl>#mm_marker_color_12278</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.4081574997896,48.36544802272293,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="129">
+				<name>8</name>
+				<description><![CDATA[<div></div>]]></description>
+				<TimeStamp><when>2023-04-01T10:08:52Z</when>
+</TimeStamp>
+				<styleUrl>#mm_marker_color_12244</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.40846889995508,48.36597159977614,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="130">
+				<name>9</name>
+				<description><![CDATA[<div></div>]]></description>
+				<TimeStamp><when>2023-04-01T10:11:06Z</when>
+</TimeStamp>
+				<styleUrl>#mm_marker_color_12267</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.40894987434149,48.36592187542001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="131">
+				<name>10</name>
+				<description><![CDATA[<div></div>]]></description>
+				<TimeStamp><when>2023-04-01T10:14:40Z</when>
+</TimeStamp>
+				<styleUrl>#mm_marker_color_12210</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.40937449979031,48.36639130002183,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="132">
+				<name>11</name>
+				<description><![CDATA[<div></div>]]></description>
+				<TimeStamp><when>2023-04-01T10:17:24Z</when>
+</TimeStamp>
+				<styleUrl>#mm_marker_color_1224</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.40994079974067,48.36662960022229,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="133">
+				<name>12</name>
+				<description><![CDATA[<div></div>]]></description>
+				<TimeStamp><when>2023-04-01T10:22:11Z</when>
+</TimeStamp>
+				<styleUrl>#mm_marker_color_12261</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.41017169999986,48.36637779999981,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="134">
+				<name>13</name>
+				<description><![CDATA[<div></div>]]></description>
+				<TimeStamp><when>2023-04-01T10:26:06Z</when>
+</TimeStamp>
+				<styleUrl>#mm_marker_color_122</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.41095989976174,48.36661240014891,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="135">
+				<name>14</name>
+				<description><![CDATA[<div></div>]]></description>
+				<TimeStamp><when>2023-04-01T10:28:16Z</when>
+</TimeStamp>
+				<styleUrl>#mm_marker_color_12234</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.41134939982191,48.36670720005237,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="136">
+				<name>15</name>
+				<description><![CDATA[<div></div>]]></description>
+				<TimeStamp><when>2023-04-01T10:30:18Z</when>
+</TimeStamp>
+				<styleUrl>#mm_marker_color_12223</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.41195369867783,48.36644061959142,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="137">
+				<name>16</name>
+				<description><![CDATA[<div></div>]]></description>
+				<TimeStamp><when>2023-04-01T10:34:08Z</when>
+</TimeStamp>
+				<styleUrl>#mm_marker_color_12242</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.41130170000692,48.36627820000415,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="138">
+				<name>17</name>
+				<description><![CDATA[<div></div>]]></description>
+				<TimeStamp><when>2023-04-01T10:36:17Z</when>
+</TimeStamp>
+				<styleUrl>#mm_marker_color_12238</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.41095470060729,48.36595959981022,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="139">
+				<name>18</name>
+				<description><![CDATA[<div></div>]]></description>
+				<TimeStamp><when>2023-04-01T10:39:44Z</when>
+</TimeStamp>
+				<styleUrl>#mm_marker_color_12254</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.41206659833366,48.365981699757,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="140">
+				<name>19</name>
+				<description><![CDATA[<div></div>]]></description>
+				<TimeStamp><when>2023-04-01T10:42:03Z</when>
+</TimeStamp>
+				<styleUrl>#mm_marker_color_12225</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.41179905086756,48.36570135472838,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="177">
+				<name>20</name>
+				<description><![CDATA[<div></div>]]></description>
+				<TimeStamp><when>2023-04-02T12:17:33Z</when>
+</TimeStamp>
+				<styleUrl>#mm_marker_color_12235</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.41153954714536,48.36536478039767,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="141">
+				<name>21</name>
+				<description><![CDATA[<div></div>]]></description>
+				<TimeStamp><when>2023-04-01T10:49:05Z</when>
+</TimeStamp>
+				<styleUrl>#mm_marker_color_12222</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.41223222762346,48.36535386564023,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="142">
+				<name>22</name>
+				<description><![CDATA[<div></div>]]></description>
+				<TimeStamp><when>2023-04-01T10:52:37Z</when>
+</TimeStamp>
+				<styleUrl>#mm_marker_color_12228</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.41235560923815,48.36490702682837,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="143">
+				<name>23</name>
+				<description><![CDATA[<div></div>]]></description>
+				<TimeStamp><when>2023-04-01T10:56:12Z</when>
+</TimeStamp>
+				<styleUrl>#mm_marker_color_12286</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.4117319,48.3649901,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="144">
+				<name>24</name>
+				<description><![CDATA[<div></div>]]></description>
+				<TimeStamp><when>2023-04-01T10:58:38Z</when>
+</TimeStamp>
+				<styleUrl>#mm_marker_color_12214</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.41081080041804,48.3654955,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="145">
+				<name>25</name>
+				<description><![CDATA[<div></div>]]></description>
+				<TimeStamp><when>2023-04-01T11:01:42Z</when>
+</TimeStamp>
+				<styleUrl>#mm_marker_color_12258</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.4098672,48.3652099,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="146">
+				<name>26</name>
+				<description><![CDATA[<div></div>]]></description>
+				<TimeStamp><when>2023-04-01T11:05:06Z</when>
+</TimeStamp>
+				<styleUrl>#mm_marker_color_12269</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.40942409521328,48.36554359022772,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="147">
+				<name>27</name>
+				<description><![CDATA[<div></div>]]></description>
+				<TimeStamp><when>2023-04-01T11:07:25Z</when>
+</TimeStamp>
+				<styleUrl>#mm_marker_color_12212</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.4099922478199,48.36580515549612,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="148">
+				<name>28</name>
+				<description><![CDATA[<div></div>]]></description>
+				<TimeStamp><when>2023-04-01T11:09:44Z</when>
+</TimeStamp>
+				<styleUrl>#mm_marker_color_12211</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.40991575879319,48.36613084293953,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="149">
+				<name>29</name>
+				<description><![CDATA[<div></div>]]></description>
+				<TimeStamp><when>2023-04-01T11:16:01Z</when>
+</TimeStamp>
+				<styleUrl>#mm_marker_color_12270</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.4089878,48.36652900000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="150">
+				<name>30</name>
+				<description><![CDATA[<div></div>]]></description>
+				<TimeStamp><when>2023-04-01T11:19:59Z</when>
+</TimeStamp>
+				<styleUrl>#mm_marker_color_12256</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.40831319949085,48.36660499912718,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="151">
+				<name>31</name>
+				<description><![CDATA[<div></div>]]></description>
+				<TimeStamp><when>2023-04-01T11:22:25Z</when>
+</TimeStamp>
+				<styleUrl>#mm_marker_color_12297</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.40821270000003,48.36707329999999,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="152">
+				<name>32</name>
+				<description><![CDATA[<div></div>]]></description>
+				<TimeStamp><when>2023-04-01T11:24:47Z</when>
+</TimeStamp>
+				<styleUrl>#mm_marker_color_12251</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.4078851999952,48.36686670000164,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="153">
+				<name>33</name>
+				<description><![CDATA[<div></div>]]></description>
+				<TimeStamp><when>2023-04-01T11:28:35Z</when>
+</TimeStamp>
+				<styleUrl>#mm_marker_color_12249</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.4075832888484,48.36657652667684,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="154">
+				<name>34</name>
+				<description><![CDATA[<div></div>]]></description>
+				<TimeStamp><when>2023-04-01T11:30:51Z</when>
+</TimeStamp>
+				<styleUrl>#mm_marker_color_12237</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.40731674432755,48.36685762987397,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder id="4">
+			<name>Pflöcke</name>
+			<styleUrl>#mm_folder_color_4</styleUrl>
+			<Style id="mm_marker_color_191">
+				<IconStyle>
+					<color>ff0000ff</color>
+					<colorMode>normal</colorMode>
+					<scale>1</scale>
+				</IconStyle>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<color>ff0000ff</color>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+					<value>-1</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+					<value>[]</value>
+				</Data>
+			</ExtendedData>
+			<Placemark id="195">
+				<name>1</name>
+				<description><![CDATA[<div></div>]]></description>
+				<TimeStamp><when>2023-05-06T11:00:01Z</when>
+</TimeStamp>
+				<styleUrl>#msn_placemark_circle23</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.40719805657864,48.36663310383172,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="157">
+				<name>2</name>
+				<description><![CDATA[<div></div>]]></description>
+				<TimeStamp><when>2023-04-02T11:15:53Z</when>
+</TimeStamp>
+				<styleUrl>#msn_placemark_circle9</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.4069093002144,48.3664540002862,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="158">
+				<name>3</name>
+				<description><![CDATA[<div></div>]]></description>
+				<TimeStamp><when>2023-04-02T11:19:47Z</when>
+</TimeStamp>
+				<styleUrl>#msn_placemark_circle27</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.4071742942373,48.36617888955048,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="159">
+				<name>4</name>
+				<description><![CDATA[<div></div>]]></description>
+				<TimeStamp><when>2023-04-02T11:23:00Z</when>
+</TimeStamp>
+				<styleUrl>#msn_placemark_circle12</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.40703859890564,48.36590109984366,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="160">
+				<name>5</name>
+				<description><![CDATA[<div></div>]]></description>
+				<TimeStamp><when>2023-04-02T11:28:52Z</when>
+</TimeStamp>
+				<styleUrl>#msn_placemark_circle15</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.40730098634958,48.36593613127025,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="164">
+				<name>6</name>
+				<description><![CDATA[<div></div>]]></description>
+				<TimeStamp><when>2023-04-02T11:39:02Z</when>
+</TimeStamp>
+				<styleUrl>#msn_placemark_circle20</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.4077368453145,48.36585505106883,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="162">
+				<name>7</name>
+				<description><![CDATA[<div></div>]]></description>
+				<TimeStamp><when>2023-04-02T11:33:49Z</when>
+</TimeStamp>
+				<styleUrl>#msn_placemark_circle2</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.4079441,48.3655126,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="163">
+				<name>8</name>
+				<description><![CDATA[<div></div>]]></description>
+				<TimeStamp><when>2023-04-02T11:36:23Z</when>
+</TimeStamp>
+				<styleUrl>#msn_placemark_circle1</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.4083930405194,48.36561175146243,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="165">
+				<name>9</name>
+				<description><![CDATA[<div></div>]]></description>
+				<TimeStamp><when>2023-04-02T11:40:35Z</when>
+</TimeStamp>
+				<styleUrl>#msn_placemark_circle</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.40893679857254,48.36577441623499,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="166">
+				<name>10</name>
+				<description><![CDATA[<div></div>]]></description>
+				<TimeStamp><when>2023-04-02T11:44:45Z</when>
+</TimeStamp>
+				<styleUrl>#msn_placemark_circle13</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.40934985876084,48.36615063678506,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="167">
+				<name>11</name>
+				<description><![CDATA[<div></div>]]></description>
+				<TimeStamp><when>2023-04-02T11:47:27Z</when>
+</TimeStamp>
+				<styleUrl>#msn_placemark_circle6</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.40974246710539,48.36656650315859,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="168">
+				<name>12</name>
+				<description><![CDATA[<div></div>]]></description>
+				<TimeStamp><when>2023-04-02T11:49:39Z</when>
+</TimeStamp>
+				<styleUrl>#msn_placemark_circle6</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.41000286882609,48.36639470107581,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="169">
+				<name>13</name>
+				<description><![CDATA[<div></div>]]></description>
+				<TimeStamp><when>2023-04-02T11:58:00Z</when>
+</TimeStamp>
+				<styleUrl>#msn_placemark_circle18</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.4106500595808,48.36669146287837,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="170">
+				<name>14</name>
+				<description><![CDATA[<div></div>]]></description>
+				<TimeStamp><when>2023-04-02T12:00:03Z</when>
+</TimeStamp>
+				<styleUrl>#msn_placemark_circle30</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.41117400456525,48.36672264337889,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="171">
+				<name>15</name>
+				<description><![CDATA[<div></div>]]></description>
+				<TimeStamp><when>2023-04-02T12:02:05Z</when>
+</TimeStamp>
+				<styleUrl>#msn_placemark_circle7</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.4116849999895,48.3666145999951,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="172">
+				<name>16</name>
+				<description><![CDATA[<div></div>]]></description>
+				<TimeStamp><when>2023-04-02T12:05:18Z</when>
+</TimeStamp>
+				<styleUrl>#msn_placemark_circle26</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.41160089999223,48.36626179999799,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="173">
+				<name>17</name>
+				<description><![CDATA[<div></div>]]></description>
+				<TimeStamp><when>2023-04-02T12:08:14Z</when>
+</TimeStamp>
+				<styleUrl>#msn_placemark_circle8</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.41101618111133,48.36602790321064,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="174">
+				<name>18</name>
+				<description><![CDATA[<div></div>]]></description>
+				<TimeStamp><when>2023-04-02T12:10:59Z</when>
+</TimeStamp>
+				<styleUrl>#msn_placemark_circle28</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.4117663999481,48.36593310002449,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="175">
+				<name>19</name>
+				<description><![CDATA[<div></div>]]></description>
+				<TimeStamp><when>2023-04-02T12:14:09Z</when>
+</TimeStamp>
+				<styleUrl>#msn_placemark_circle31</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.41165817711988,48.36572839280902,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="176">
+				<name>20</name>
+				<description><![CDATA[<div></div>]]></description>
+				<TimeStamp><when>2023-04-02T12:16:45Z</when>
+</TimeStamp>
+				<styleUrl>#msn_placemark_circle5</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.4114097211252,48.36541516531133,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="178">
+				<name>21</name>
+				<description><![CDATA[<div></div>]]></description>
+				<TimeStamp><when>2023-04-02T12:18:55Z</when>
+</TimeStamp>
+				<styleUrl>#msn_placemark_circle24</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.41186072844379,48.36538138657804,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="179">
+				<name>22</name>
+				<description><![CDATA[<div></div>]]></description>
+				<TimeStamp><when>2023-04-02T12:21:33Z</when>
+</TimeStamp>
+				<styleUrl>#msn_placemark_circle0</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.41247295588255,48.36513178323123,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="180">
+				<name>23</name>
+				<description><![CDATA[<div></div>]]></description>
+				<TimeStamp><when>2023-04-02T12:25:52Z</when>
+</TimeStamp>
+				<styleUrl>#msn_placemark_circle19</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.41192150001521,48.36487579999561,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="181">
+				<name>24</name>
+				<description><![CDATA[<div></div>]]></description>
+				<TimeStamp><when>2023-04-02T12:29:27Z</when>
+</TimeStamp>
+				<styleUrl>#msn_placemark_circle11</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.41109570022771,48.36535869986321,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="182">
+				<name>25</name>
+				<description><![CDATA[<div></div>]]></description>
+				<TimeStamp><when>2023-04-02T12:32:11Z</when>
+</TimeStamp>
+				<styleUrl>#msn_placemark_circle21</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.40993662912468,48.36534625767545,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="183">
+				<name>26</name>
+				<description><![CDATA[<div></div>]]></description>
+				<TimeStamp><when>2023-04-02T12:34:07Z</when>
+</TimeStamp>
+				<styleUrl>#msn_placemark_circle16</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.4094666,48.36537560000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="184">
+				<name>27</name>
+				<description><![CDATA[<div></div>]]></description>
+				<TimeStamp><when>2023-04-02T12:37:18Z</when>
+</TimeStamp>
+				<styleUrl>#msn_placemark_circle25</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.40985478460789,48.36575436888082,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="185">
+				<name>28</name>
+				<description><![CDATA[<div></div>]]></description>
+				<TimeStamp><when>2023-04-02T12:41:12Z</when>
+</TimeStamp>
+				<styleUrl>#msn_placemark_circle10</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.41005527973175,48.36607044791329,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="186">
+				<name>29</name>
+				<description><![CDATA[<div></div>]]></description>
+				<TimeStamp><when>2023-04-02T12:50:14Z</when>
+</TimeStamp>
+				<styleUrl>#msn_placemark_circle3</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.4088801369071,48.36638117908808,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="187">
+				<name>30</name>
+				<description><![CDATA[<div></div>]]></description>
+				<TimeStamp><when>2023-04-02T12:52:00Z</when>
+</TimeStamp>
+				<styleUrl>#msn_placemark_circle17</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.4085024441239,48.36671469185452,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="188">
+				<name>31</name>
+				<description><![CDATA[<div></div>]]></description>
+				<TimeStamp><when>2023-04-02T12:56:30Z</when>
+</TimeStamp>
+				<styleUrl>#msn_placemark_circle14</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.40841519999925,48.36687549999968,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="189">
+				<name>32</name>
+				<description><![CDATA[<div></div>]]></description>
+				<TimeStamp><when>2023-04-02T13:00:49Z</when>
+</TimeStamp>
+				<styleUrl>#msn_placemark_circle22</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.4077730551362,48.36699105311473,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="190">
+				<name>33</name>
+				<description><![CDATA[<div></div>]]></description>
+				<TimeStamp><when>2023-04-02T13:02:19Z</when>
+</TimeStamp>
+				<styleUrl>#msn_placemark_circle29</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.40763793885708,48.3666836668264,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="191">
+				<name>34</name>
+				<description><![CDATA[<div></div>]]></description>
+				<TimeStamp><when>2023-04-02T13:05:09Z</when>
+</TimeStamp>
+				<styleUrl>#msn_placemark_circle4</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>14.40739218145609,48.36672977488792,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Placemark>
+			<name>Weg</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					14.40712041760279,48.36683533664848,0 14.40719535918807,48.36664087101235,0 14.40685999574125,48.3665920529333,0 14.40691588231254,48.3664658428839,0 14.40725985916884,48.36642748266586,0 14.40708859197078,48.3663958300104,0 14.40717403984963,48.36618309812354,0 14.40700457178141,48.36619392931593,0 14.40712922345723,48.36598505431473,0 14.40703252535958,48.36591535396714,0 14.40726045038622,48.36582233372641,0 14.40729664109976,48.36593654876647,0 14.40743139438399,48.36600273141561,0 14.40773942879623,48.36585714984605,0 14.4076216249961,48.36565302813541,0 14.4079414802288,48.36551275934223,0 14.40816202544067,48.36544441606593,0 14.40838945022893,48.36560732377313,0 14.40846477497399,48.36596633961495,0 14.40894007212839,48.36577239129993,0 14.4089500460138,48.36592173110997,0 14.40919401017472,48.36596758486736,0 14.40936128481244,48.36615084606053,0 14.40937828985309,48.36638890539673,0 14.4094665950068,48.36640979186869,0 14.40974387906396,48.36656007850855,0 14.40993180542665,48.36663250306656,0 14.41008163140124,48.36653576156068,0 14.40999922869138,48.36639638188621,0 14.41017198338013,48.36637981865567,0 14.4102219814486,48.36650204192998,0 14.41059390424232,48.36671123318346,0 14.41065156425453,48.36669285102,0 14.41096250300244,48.36661177509778,0 14.41117410414966,48.36672270292587,0 14.41134579237374,48.36671386284812,0 14.41142056732401,48.36673741657098,0 14.41165614373325,48.36669354769733,0 14.41168750552925,48.36662098511325,0 14.41196403715645,48.36644638045882,0 14.41177556478902,48.36630707515608,0 14.41160472876165,48.36626239984886,0 14.41130970128996,48.36628218500714,0 14.41133732566289,48.36622778530118,0 14.41101626044102,48.36602743324588,0 14.41094850617614,48.36595750818627,0 14.41138431963164,48.36581091155407,0 14.41176241735467,48.3659353152912,0 14.41206935453409,48.36598560040688,0 14.41165323761139,48.36572654942308,0 14.41180109634389,48.36570230562887,0 14.41153753499014,48.36570550526493,0 14.41141839381384,48.36567469586277,0 14.41128462368195,48.36550822850428,0 14.41141696520199,48.36541783439835,0 14.41153683867308,48.36536290476424,0 14.41165926461057,48.36540570248672,0 14.4118579115758,48.36537847496588,0 14.41222993282773,48.3653565935641,0 14.41247553877883,48.36513596479234,0 14.41235824362716,48.36490909928457,0 14.41190192451048,48.36487787456279,0 14.41174675055274,48.36499706432261,0 14.41155045333664,48.36500895083175,0 14.41132599436315,48.36522053016852,0 14.41108727172159,48.36535962740101,0 14.41080096410314,48.36549983789578,0 14.41020003201855,48.3654862032418,0 14.40994608775445,48.36535389755586,0 14.40987359047287,48.36521300706293,0 14.40961336262688,48.36532706720254,0 14.40946798129507,48.36537685381976,0 14.409425129188,48.36554425400769,0 14.40985334169606,48.36575252109125,0 14.40998985430092,48.3658066384679,0 14.41009004013954,48.36600718821188,0 14.41005159080399,48.36607488842455,0 14.40995004637424,48.36612042726241,0 14.40944196006869,48.36614684251836,0 14.40887272194124,48.36638805711559,0 14.40898573063081,48.3665416186262,0 14.40850003609941,48.36671875136835,0 14.4083077081877,48.36659532958743,0 14.40842917219447,48.36690722544662,0 14.40821989319352,48.36707730057014,0 14.40777011517801,48.36699135352461,0 14.40788108258531,48.36686770888873,0 14.40780661706128,48.36670860329584,0 14.40762973836431,48.36667874661849,0 14.40758082952172,48.36657878529846,0 14.40738437597309,48.36671949007709,0 14.40730941227822,48.36686289021436,0 14.40722706114982,48.36682125499582,0 14.40717492341895,48.36685747929591,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Folder>
+			<name>Schusslinie</name>
+			<Placemark>
+				<name>1</name>
+				<styleUrl>#msn_ylw-pushpin0</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						14.40717842104889,48.36661896315272,0 14.40689660238927,48.36658150317185,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>2</name>
+				<styleUrl>#msn_ylw-pushpin2</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						14.40693563615321,48.36645315187464,0 14.4071962498303,48.36642571076296,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>3</name>
+				<styleUrl>#msn_ylw-pushpin2</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						14.40715306102375,48.36616914644175,0 14.40704888905077,48.36617654891772,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>4</name>
+				<styleUrl>#msn_ylw-pushpin2</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						14.40704934336012,48.36589058968805,0 14.40722291700467,48.36582185361632,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>5</name>
+				<styleUrl>#msn_ylw-pushpin2</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						14.40729916518007,48.36595241486235,0 14.40738792268881,48.3659973000395,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>6</name>
+				<styleUrl>#msn_ylw-pushpin2</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						14.40770654993406,48.36585122908179,0 14.40760614423664,48.36567398124843,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>7</name>
+				<styleUrl>#msn_ylw-pushpin2</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						14.40793623056891,48.365493459212,0 14.40812761135663,48.36543083964876,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>8</name>
+				<styleUrl>#msn_ylw-pushpin2</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						14.40836771101652,48.36561768420771,0 14.40843440712833,48.36595309894465,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>9</name>
+				<styleUrl>#msn_ylw-pushpin2</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						14.4089635998752,48.365770790029,0 14.40896987229726,48.36590310410323,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>10</name>
+				<styleUrl>#msn_ylw-pushpin2</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						14.40934285979519,48.36616978071049,0 14.40935674067341,48.36636888784529,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>11</name>
+				<styleUrl>#msn_ylw-pushpin2</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						14.4097596117352,48.3665774472634,0 14.40988769964396,48.36662864118145,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>12</name>
+				<styleUrl>#msn_ylw-pushpin2</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						14.40999863329731,48.3663770372147,0 14.41014058183293,48.36636401375947,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>13</name>
+				<styleUrl>#msn_ylw-pushpin2</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						14.41065623040699,48.36667128645545,0 14.41091948207144,48.36660215809516,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>14</name>
+				<styleUrl>#msn_ylw-pushpin2</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						14.41118222792671,48.36673439012326,0 14.41132228694737,48.36672611429531,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>15</name>
+				<styleUrl>#msn_ylw-pushpin2</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						14.41168178430314,48.36659827199983,0 14.41191418521437,48.36645856575025,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>16</name>
+				<styleUrl>#msn_ylw-pushpin2</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						14.41158785457384,48.36627810496822,0 14.4113346119969,48.36629608960521,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>17</name>
+				<styleUrl>#msn_ylw-pushpin2</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						14.41098676512149,48.36602726234089,0 14.41094993292066,48.36598642048189,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>18</name>
+				<styleUrl>#msn_ylw-pushpin2</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						14.4117613433671,48.36594842037798,0 14.41202592656591,48.36599011195408,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>19</name>
+				<styleUrl>#msn_ylw-pushpin2</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						14.41169218159772,48.36573332847052,0 14.41177497920617,48.36571858114039,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>20</name>
+				<styleUrl>#msn_ylw-pushpin2</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						14.41141911228982,48.36540321422631,0 14.41149878327719,48.36536580039078,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>21</name>
+				<styleUrl>#msn_ylw-pushpin2</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						14.4118712878455,48.36539177922108,0 14.41220167773526,48.36537210179318,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>22</name>
+				<styleUrl>#msn_ylw-pushpin2</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						14.41249721288076,48.36512572432889,0 14.41239555579863,48.36492106528703,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>23</name>
+				<styleUrl>#msn_ylw-pushpin2</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						14.41191551717553,48.36489174135414,0 14.41177154059068,48.36500483570192,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>24</name>
+				<styleUrl>#msn_ylw-pushpin2</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						14.41107415584625,48.3653453112166,0 14.41082959268083,48.36546584266763,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>25</name>
+				<styleUrl>#msn_ylw-pushpin2</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						14.40995346852914,48.36533525140218,0 14.40989839195294,48.36522156302406,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>26</name>
+				<styleUrl>#msn_ylw-pushpin2</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						14.40943950116291,48.36538663547548,0 14.40940632629796,48.36551859530772,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>27</name>
+				<styleUrl>#msn_ylw-pushpin2</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						14.40987517438342,48.3657456202403,0 14.40997478890433,48.36578583478347,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>28</name>
+				<styleUrl>#msn_ylw-pushpin2</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						14.41006374042486,48.36608570293604,0 14.40994985245153,48.3661299576172,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>29</name>
+				<styleUrl>#msn_ylw-pushpin1</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						14.40884508562135,48.36639407795793,0 14.40894300208031,48.36651768394191,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>30</name>
+				<styleUrl>#msn_ylw-pushpin1</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						14.4084946370852,48.36669357110121,0 14.40837248751006,48.36661502415565,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>31</name>
+				<styleUrl>#msn_ylw-pushpin1</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						14.40839702228865,48.36690716608121,0 14.40822380674738,48.3670462067557,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>32</name>
+				<styleUrl>#msn_ylw-pushpin1</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						14.40775717498779,48.36697409198113,0 14.40783241936002,48.36689017162771,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>33</name>
+				<styleUrl>#msn_ylw-pushpin1</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						14.40760898850778,48.36667726263246,0 14.40757640052449,48.36660428697234,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>34</name>
+				<styleUrl>#msn_ylw-pushpin1</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						14.407395987008,48.36674445295622,0 14.40734378587141,48.36684168717539,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>
